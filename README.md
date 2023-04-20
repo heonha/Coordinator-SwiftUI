@@ -11,7 +11,7 @@ Push <-> Pop 무한반복 문제를 해결하기 위하여 찾던 중 다양한 
 <br>
 
 **SwiftUI NavigationView로 Coordinator Pattern 사용하기 | 이호승님**
-https://labs.brandi.co.kr//2022/12/12/leehs81.html
+https://labs.brandi.co.kr//2022/12/12/leehs81.html   
 https://github.com/urijan44/SwiftUICoordinator
 
 <br>
@@ -33,7 +33,7 @@ Coordinator의 Lifecycle을 확인할 수 있도록 하였습니다.
 **Swift Tutorial: How to use Coordinator Pattern with MVVM - Advanced Navigation in UIKit & SwiftUI | Karin Prater**
 - MVVM-C 패턴 구현에 대한 내용입니다.
 - UIKit, SwiftUI 두가지 모두 각각 다루고 있습니다.   
-https://youtu.be/wpw3l_jTuOo
+https://youtu.be/wpw3l_jTuOo   
 https://github.com/gahntpo/CoordinatorProject
 
 <br>
