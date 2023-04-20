@@ -1,21 +1,25 @@
 //
 //  ContentView.swift
-//  Coordinator-SwiftUI
+//  MVVMC-02
 //
 //  Created by Heonjin Ha on 2023/04/20.
 //
 
 import SwiftUI
+import Combine
 
 struct ContentView: View {
+
+    @ObservedObject var viewModel = MainViewModel.shared
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+
+        if viewModel.isSet {
+            MainView()
+        } else {
+            ViewA()
         }
-        .padding()
+
     }
 }
 
@@ -24,3 +28,4 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
