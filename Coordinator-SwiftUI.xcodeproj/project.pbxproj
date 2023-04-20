@@ -31,6 +31,7 @@
 		39831E7E29F16BBD00B08FF3 /* MainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		39831E8029F16BBD00B08FF3 /* MainViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewModel.swift; sourceTree = "<group>"; };
 		39831E8829F16BD500B08FF3 /* ViewABC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewABC.swift; sourceTree = "<group>"; };
+		39831E8C29F16CBD00B08FF3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +48,7 @@
 		39831E5F29F16B7A00B08FF3 = {
 			isa = PBXGroup;
 			children = (
+				39831E8C29F16CBD00B08FF3 /* README.md */,
 				39831E6A29F16B7A00B08FF3 /* Coordinator-SwiftUI */,
 				39831E6929F16B7A00B08FF3 /* Products */,
 			);
