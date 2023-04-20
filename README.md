@@ -2,7 +2,10 @@
 
 Coordinator를 통해 SwiftUI NavigationView에서 종종 발생하는   
 Push <-> Pop 무한반복 문제를 해결하기 위하여 찾던 중 다양한 영상과 글을 참고하였지만   
-아래 글이 `UIKit을 의존하지 않으면서` Coordinator를 구현할 수 있어 채택하게 되었습니다.   
+아래 글이 `UIKit을 의존하지 않으면서` Coordinator를 구현할 수 있어 채택하게 되었습니다.    
+
+<br>
+
 설명이 잘 되어있으니 아래 `이호승님`의 글을 참고 하시면 빠른 이해와 도움을 받을 수 있습니다.
 
 <br>
